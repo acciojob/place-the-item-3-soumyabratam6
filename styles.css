@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:500px;
+	background-color: #f1f1f1;
+	display:flex;
+	flex-direction:row;
+    justify-content:space-evenly;
+}
+.f1{
+	width:20px;
+	background-color:black;
+}
